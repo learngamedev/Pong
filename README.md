@@ -1,2 +1,2 @@
-# break-out
-Simple break-out game
+# Pong
+Simple pong game
